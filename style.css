@@ -1,0 +1,18 @@
+.navbar-nav li {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.navbar-nav li a:hover {
+    background-color: rgb(47, 168, 129);
+    border-radius: 5px;
+}
+
+.color1 {
+    background-color: rgba(124, 223, 207,0.4);
+  
+  
+}
+
+
+
